@@ -1,0 +1,4 @@
+C:\Users\Usuario\Desktop\Tabstext\Tabstext\Tabstext\obj\Debug\Tabstext.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tabstext\Tabstext\Tabstext\obj\Debug\Tabstext.MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\Tabstext\Tabstext\Tabstext\obj\Debug\Tabstext.App.xaml.g.cs
+C:\Users\Usuario\Desktop\Tabstext\Tabstext\Tabstext\obj\Debug\Tabstext.TestControl.xaml.g.cs
